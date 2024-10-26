@@ -29,8 +29,8 @@ This project is a Node.js application connected to MongoDB using MongoDB Compass
 
 4. **Make API Requests**
    - Use Postman to send requests to your API routes. Here are a few examples:
-     - `GET http://localhost:3000/api/your-route`
-     - `POST http://localhost:3000/api/your-route` with a JSON body.
+     - `GET http://localhost:3000/api/genres/:id`
+     - `POST http://localhost:3000/api/users` with a JSON body.
 
 ## JWT Key
 
